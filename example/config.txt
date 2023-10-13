@@ -1,0 +1,2 @@
+Prefix plugins/AbundanceGenomes/example/
+Plugin AbundanceGenomes inputfile parameters.txt outputfile result
